@@ -8,9 +8,10 @@ Compile the program using "make"
 Run the program using "./upgma species.txt"
 
 # List of Files:
-1. README: this file
+1. README.md: this file
 2. Makefile: compiler instruction
 3. dynmatrix.cc - implementation of the Dynamic Matrix and helper functions to print and update
 4. dynmatrix.h - header file with structs for ClusterNode and DistanceNode, as well as function declarations
 5. main.cc - UPGMA program that reads input from the specified text file and performs clustering until only one cluster remains
-6. species.txt - sample input
+6. species.txt - sample input to the UPGMA program
+7. proj1-instructions.pdf - instructions to project
