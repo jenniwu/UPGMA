@@ -15,3 +15,4 @@ Run the program using "./upgma species.txt"
 5. main.cc - UPGMA program that reads input from the specified text file and performs clustering until only one cluster remains
 6. species.txt - sample input to the UPGMA program
 7. proj1-instructions.pdf - instructions to project
+
