@@ -3,15 +3,10 @@
 CPSC 221 2017S1 Project: 
 UPGMA (Unweighted Pair Group Method with Arithmetic Mean) is a simple bottom-up hier- archical clustering method used to construct a phylogenetic tree (a tree of life) from the pairwise (evolutionary) distances between species invented by Sokal and Michener in 1958. The method works by clustering the species, at each stage joining two clusters together that have the smallest distance.
 
-Compile the program using:
-'''
-make
-'''
+Compile the program using: '<make>'
 
-Run the program using:
-'''
-./upgma species.txt
-'''
+Run the program using: '<./upgma species.txt>'
+
 
 ### List of Files:
 1. README.md: this file
